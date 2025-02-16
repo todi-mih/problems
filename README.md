@@ -1,3 +1,6 @@
+Diverse problems solved in java,the scope is not just solving the problems but to get the best time complexity ,the programs
+were tested with a timer (sub 2 s) and the solutions tries to get the best possible time.
+
 Servers:
 Used a divide and conquer technique,basiclly binary search
 i first get the max of the currents and the minimum for a better time,we
