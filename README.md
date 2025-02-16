@@ -1,10 +1,3 @@
-Firstly,sorry for writing in English,i am foreign and romanian is not
-my best,so insted of wasting you time trying to descipher what i was gonna
-say ,i'll just do it in English,again sorry :) 
-
-First id like to say sorry for not using many comments,seemed i could never
-pass the coding style checker with them.
-
 Servers:
 Used a divide and conquer technique,basiclly binary search
 i first get the max of the currents and the minimum for a better time,we
@@ -19,9 +12,6 @@ implemented a system to check that after 100 tries the value stays the same it m
 i could aviod being stuck in an infite loop.
 
 Time complexity : O(N * lg(maxP - minPower))
-
-Colorare:
-Didnt do,found a formula on the internet for it,but thought that wasnt allowed,didnt bother,lets continue.
 
 Compresie:
 This program initializes a HashMap indexMap to store the prefix sums of array A(first one,B is the second one) as keys and their coresponding indices as valuess.(HashMaps are awsome and very fast in java).
